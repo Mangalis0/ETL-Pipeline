@@ -74,7 +74,7 @@ Write a function which:
 Function Specifications:
 - The function should take in the pandas dataframe you created in Function 1 and return a new pandas dataframe.
 
-# Function 3: Model Testing
+# Function 3: Loading Data to SQL Server
 Write a function which:
 - Connects and updates your SQL database. 
 
